@@ -1,12 +1,12 @@
-# Pull Request Template
-
 ## 🚀 Description
-_Please provide a concise summary of the changes in this pull request, including the issue it addresses. Include relevant motivation and context. List any dependencies required for this change._
+
+<!-- Please provide a concise summary of the changes in this pull request, including the issue it addresses. Include relevant motivation and context. List any dependencies required for this change. -->
 
 ### Related Issue: [Link to issue or task here]
 
 ## 📋 Type of Change
-_Select the type of change that applies to this PR by **deleting the other options**._
+
+<!-- Select the type of change that applies to this PR by **deleting the other options**. -->
 
 - [ ] 🐛 **Bug fix**: Non-breaking change that fixes an issue.
 - [ ] ✨ **New feature**: Non-breaking change that adds functionality.
@@ -18,7 +18,8 @@ _Select the type of change that applies to this PR by **deleting the other optio
 - [ ] ⚙️ **CI/CD changes**: Modifications to the continuous integration or continuous deployment pipelines, such as updating build processes, deployment scripts, or integrating new tools.
 
 ## 📝 Checklist
-_Please ensure all of the following tasks are completed before submitting the PR:_
+
+<!-- Please ensure all of the following tasks are completed before submitting the PR: -->
 
 - [ ] I have performed a self-review of my code.
 - [ ] I have followed conventional commit guidelines.
